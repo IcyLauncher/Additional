@@ -1,2 +1,2 @@
 # Additional
-Additional content for Icy Launcher and everything related to it
+Additional content for IcyLauncher and everything related to it e.g assets, license, credits etc.
