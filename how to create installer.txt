@@ -1,0 +1,9 @@
+Setup process for deploying WinUI3 application written in .net 6
+- Create this in a WPF self contained application to avoid having any issues with missing frameworks.
+
+1. Enable developer mode in developer settings
+2. Download & Install .net 6 runtime
+3. Download & Install Windows APP SDK (v.X.X.X) using official installer
+4. Download application content in application folder
+5. Create Shortcuts for start menu & desktop
+6. Clean up temporary installation files and launch application

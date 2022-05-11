@@ -1,0 +1,52 @@
+> Launcher
+ - Discord RPC
+ - Scrollbars
+ - At Minecraft Launch
+  + Close Launcher
+  + Minimize Launcher (System Tray)
+  + Keep Launcher Open
+ - Texturepack installation path
+ - Minecraft installation path (Version Switcher)
+
+> Apperance
+ - Play Banner
+  + Time dependent banner
+  + Gallery banner
+  + Custom picture banner
+ - Colors
+ - Blur Effect
+
+> Weather
+ - Enabled/Disabled
+ - Location
+  + Auto (IP)
+  + City/ZIP
+ - Unit
+  + Celsius
+  + Farenheit
+
+> Date & Time
+ - Date Format
+  + Month/Day/Year
+  + Day.Month.Year
+ - Time Format
+  + 12-hour clock
+  + 24-hour clock
+
+> User
+ - Username
+ - Picture
+ - Email
+ - Password
+
+> Developer
+ - Keep Dev-Login details
+ - One-click Dev-Button
+
+> Config
+ - Theme
+  + Export settings
+  + Load settings
+ - Configuration
+  + Export settings
+  + Load settings
