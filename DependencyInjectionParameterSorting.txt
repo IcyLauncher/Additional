@@ -1,0 +1,9 @@
+Logger
+Options (Configuration, Others)
+Manager (Configuration, Theme)
+App/UI (WindowHandler, UIElementReciever, BackdropHandlers)
+Utilities (Converter, Imaging)
+Local (FileSystem, Updater)
+Navigation (Navigation, Message)
+ViewModels
+Window
